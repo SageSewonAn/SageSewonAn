@@ -1,37 +1,5 @@
-# Today I Learned
+안녕하세요. 안세원입니다. 
+Hi. I am Sage Sewon An.
 
-> 매일의 학습내용 정리
->
-
-​	
-
-## 작성 규칙
-
-- 추가적인 검색이 필요없도록 정리할 것
-- 출처 명시
-
-
-
-## 분류
-
-### SQL
-
-* MariaDB
-
-### Python
-
-* 기초 문법
-* NumPy
-* Pandas
-
-### HTML
-
-### CSS
-
-### JavaScript
-
-### 기타
-
-* 포트폴리오 작성 특강
-* Git 특강
+![image-20220603110937744](README.assets/image-20220603110937744.png)
 
